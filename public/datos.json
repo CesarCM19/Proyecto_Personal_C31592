@@ -1,0 +1,72 @@
+{
+  "galeria": [
+    {
+      "id": 1,
+      "categoria": "sesiones",
+      "url": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=80",
+      "titulo": "Atardecer en el Lago",
+      "descripcion": "Retrato íntimo de la pareja al atardecer, capturando la luz cálida natural en su sesión de post-boda."
+    },
+    {
+      "id": 2,
+      "categoria": "ceremonias",
+      "url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+      "titulo": "El Sí, Acepto",
+      "descripcion": "El emotivo momento del intercambio de anillos bajo el altar en una ceremonia al aire libre."
+    },
+    {
+      "id": 3,
+      "categoria": "detalles",
+      "url": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=1200&q=80",
+      "titulo": "Las Alianzas",
+      "descripcion": "Macrofotografía de los anillos de bodas descansando sobre el bouquet de rosas de la novia."
+    },
+    {
+      "id": 4,
+      "categoria": "detalles",
+      "url": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=1200&q=80",
+      "titulo": "Banquete y Luces",
+      "descripcion": "Decoración de mesas y el juego de luces cálidas preparado en el salón de recepción."
+    },
+    {
+      "id": 5,
+      "categoria": "ceremonias",
+      "url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=1200&q=80",
+      "titulo": "Salida de Recién Casados",
+      "descripcion": "Lluvia de pétalos blancos y felicidad pura al salir de la capilla histórica."
+    },
+    {
+      "id": 6,
+      "categoria": "detalles",
+      "url": "https://images.unsplash.com/photo-1543157145-f78c636d023d?auto=format&fit=crop&w=1200&q=80",
+      "titulo": "El Ramo de la Novia",
+      "descripcion": "Detalle artesanal del ramo de flores silvestres y peonías seleccionado para la novia."
+    }
+  ],
+  "testimonios": [
+    {
+      "id": 1,
+      "nombre": "Sofía & Alejandro",
+      "rol": "Novios de Otoño 2025",
+      "comentario": "Jose Santana logró capturar la esencia de nuestro día de una manera mágica. No nos dimos cuenta de que estaba allí y capturó emociones reales, risas y lágrimas espontáneas. Las fotos son arte puro.",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "audioUrl": "/testimonio-1.mp3"
+    },
+    {
+      "id": 2,
+      "nombre": "Valeria & Tomás",
+      "rol": "Boda Íntima en la Playa",
+      "comentario": "Desde la sesión pre-boda nos sentimos muy cómodos con Jose. Su paciencia, profesionalismo y buen ojo nos dieron los retratos más hermosos que pudimos haber soñado para nuestra boda.",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+      "audioUrl": "/testimonio-2.mp3"
+    },
+    {
+      "id": 3,
+      "nombre": "Mariana & Carlos",
+      "rol": "Boda Campestre 2025",
+      "comentario": "El detalle de la cobertura y la entrega puntual de nuestro álbum web fue impecable. Recomendaríamos a Jose Santana una y mil veces a cualquier pareja que busque recuerdos invaluables.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+      "audioUrl": "/testimonio-3.mp3"
+    }
+  ]
+}
