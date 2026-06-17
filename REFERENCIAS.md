@@ -63,13 +63,8 @@ Este apartado detalla el origen y las licencias libres de uso de los recursos in
 *   **Sitio Oficial:** [Mixkit License](https://mixkit.co/license/)
 
 ### B. Clips de Audio de Testimonios
-*   **Recurso:** 3 archivos de audio instrumental simulando notas de voz de parejas casadas.
-*   **Rutas de Origen:**
-    *   *Clip 1:* `https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3`
-    *   *Clip 2:* `https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3`
-    *   *Clip 3:* `https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3`
-*   **Licencia:** *SoundHelix Audio - Free Test Audio Clips* (Bajo licencia libre de dominio público / Creative Commons para fines de testeo y desarrollo).
-*   **Sitio Oficial:** [SoundHelix](https://www.soundhelix.com)
+*   **Recurso:** 3 archivos de audio instrumental simulando notas de voz de parejas casadas, generadas con Microsoft Clipchamp, mediante la función de texto a voz e importados localmente al proyecto.
+
 
 ### C. Fotografías (Galería y Avatares de Parejas)
 *   **Recurso:** 8 fotos artísticas de bodas y 3 retratos de avatares en `datos.json`.
