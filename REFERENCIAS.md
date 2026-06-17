@@ -71,3 +71,6 @@ Este apartado detalla el origen y las licencias libres de uso de los recursos in
 *   **Ruta de Origen:** Fotografías cargadas desde el dominio oficial de Unsplash (e.g. IDs: `1511285560929`, `1519741497674`, `1515934751635`, `1465495976277`, `1507504038482`, `1522673607200`, `1543157145`, `1519225495810`).
 *   **Licencia:** *Unsplash License* (Imágenes de uso gratuito para fines comerciales y no comerciales; no requiere permiso ni atribución obligatoria).
 *   **Sitio Oficial:** [Unsplash License](https://unsplash.com/license)
+
+## Uso de inteligencia Artificial
+A lo largo del desarrollo de este proyecto se utilizó la inteligencia artificial Gemini, para la resolución de errores, dudas, aplicación de nuevos conocimientos y en el caso de los clips de audio, se utilizó la funcion de texto a voz de Microsoft Clipchamp para generar audios de testimonios.
