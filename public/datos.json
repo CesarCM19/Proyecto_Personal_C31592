@@ -50,7 +50,7 @@
       "rol": "Novios de Otoño 2025",
       "comentario": "Jose Santana logró capturar la esencia de nuestro día de una manera mágica. No nos dimos cuenta de que estaba allí y capturó emociones reales, risas y lágrimas espontáneas. Las fotos son arte puro.",
       "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
-      "audioUrl": "/testimonio-1.mp3"
+      "audioUrl": "./testimonio-1.mp3"
     },
     {
       "id": 2,
@@ -58,7 +58,7 @@
       "rol": "Boda Íntima en la Playa",
       "comentario": "Desde la sesión pre-boda nos sentimos muy cómodos con Jose. Su paciencia, profesionalismo y buen ojo nos dieron los retratos más hermosos que pudimos haber soñado para nuestra boda.",
       "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
-      "audioUrl": "/testimonio-2.mp3"
+      "audioUrl": "./testimonio-2.mp3"
     },
     {
       "id": 3,
@@ -66,7 +66,7 @@
       "rol": "Boda Campestre 2025",
       "comentario": "El detalle de la cobertura y la entrega puntual de nuestro álbum web fue impecable. Recomendaríamos a Jose Santana una y mil veces a cualquier pareja que busque recuerdos invaluables.",
       "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
-      "audioUrl": "/testimonio-3.mp3"
+      "audioUrl": "./testimonio-3.mp3"
     }
   ]
 }

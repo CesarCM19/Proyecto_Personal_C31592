@@ -30,7 +30,7 @@ export default function Hero() {
         poster="https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1920&q=80"
       >
         <source
-          src="/video-boda.mp4"
+          src="./video-boda.mp4"
           type="video/mp4"
         />
         Su navegador no soporta videos en formato HTML5.
